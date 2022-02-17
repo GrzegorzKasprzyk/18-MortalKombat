@@ -1,5 +1,5 @@
 
-var cards = ["ciri.png", "geralt.png", "jaskier.png", "jaskier.png", "iorweth.png", "triss.png", "geralt.png", "yen.png", "ciri.png", "triss.png", "yen.png", "iorweth.png"];
+var cards = ["ciri.jpg", "geralt.jpg", "jaskier.jpg", "jaskier.jpg", "iorweth.jpg", "triss.jpg", "geralt.jpg", "yen.jpg", "ciri.jpg", "triss.jpg", "yen.jpg", "iorweth.jpg"];
 
 //alert(cards[4]);
 
